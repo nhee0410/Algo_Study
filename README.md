@@ -7,7 +7,7 @@
 # 👩‍🌾 참여자 👨‍🌾
 <table>
   <tr>
-    <td align="center"><a href=><img src= alt=""></td>
+    <td align="center"><a href="https://github.com/K-0joo"><img src="https://avatars.githubusercontent.com/u/83263735?v=4?s=100" width="100px;" alt=""></td>
   </tr>
   <tr>
     <td align="center"><sub><b>K-0joo</b></td>
