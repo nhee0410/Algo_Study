@@ -1,8 +1,27 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Algorithm%20Coding%20Study%&fontSize=50&animation=twinkling)
 
-# Algo_Study
+# 💻 참여 규칙
 
+</br>
+</br>
+
+# 📁 파일 규칙
+
+</br>
+</br>
+
+# ✅ Commit 규칙
+- 
+
+</br>
+</br>
+
+# ✔ PR 규칙
+
+
+</br>
+</br>
 
 # 👩‍🌾 참여자 👨‍🌾
 <table>
@@ -27,6 +46,19 @@
     <td align="center"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/>
     <td align="center"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/>
   </tr>
+</table>
+
+</br>
+</br>
   
-  
+# 알고리즘 풀이 블로그 
+
+
+</br>
+</br>
+
+# 🏆 Github 시작 이래 달성한 업적 🏆
+
+</br>
+</br>
 
