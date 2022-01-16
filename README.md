@@ -61,5 +61,3 @@
 
 </br>
 </br>
-
-![reversal](https://capsule-render.vercel.app/api?type=wave&reversal=false&color=timeAuto&height=300)
