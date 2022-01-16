@@ -1,2 +1,2 @@
 # Algo_Study
-잔디 농사 알고리즘 스터디입니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=%20render&fontSize=90)
