@@ -6,8 +6,9 @@
 
 # 👩‍🌾 참여자 👨‍🌾
 <table>
-  <tr>
-    <td align="center"><a href=><img src= alt=""></td>
-    <td align="center"><sub><b>K-0joo</b></td>
-    <td align="center"><img src="(https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></td>
+  <td>
+    <tr align="center"><a href=><img src= alt=""></tr>
+    <tr align="center"><sub><b>K-0joo</b></tr>
+    <tr align="center"><img src="(https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></tr>
+  </td>
 
