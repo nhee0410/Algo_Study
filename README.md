@@ -2,10 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Algorithm%20Coding%20Study%&fontSize=50&animation=twinkling)
 
 # 💻 참여 규칙
-1. 'fork한 레포지토리에서 작업'하고 PR한다.
-2. 매주 '**일요일**'에 PR한다.
-3. 파일 하나 올릴 때 '커밋 메시지' 하나씩 올린다.
-4. 아래 '규칙'을 정독 후 준수한다.
+1. `fork한 레포지토리`에서 작업하고 PR한다.
+2. 매주 `**일요일**`에 PR한다.
+3. 파일 하나 올릴 때 `커밋 메시지` 하나씩 올린다.
+4. 아래 `규칙`을 정독 후 준수한다.
 
 </br>
 </br>
