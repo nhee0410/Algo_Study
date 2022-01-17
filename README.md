@@ -12,8 +12,8 @@
   </tr>
   <tr>
     <td align="center"><sub><b>Namhee Kim</b></td>
-    <td align="center"><sub><b></b></td>
-    <td align="center"><sub><b></b></td>
+    <td align="center"><sub><b>hj0202</b></td>
+    <td align="center"><sub><b>쥬니</b></td>
     <td align="center"><sub><b>K-0joo</b></td>
     <td align="center"><sub><b>HYUNJI KIM</b></td>
   </tr>
