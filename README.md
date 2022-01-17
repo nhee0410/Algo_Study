@@ -2,6 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Algorithm%20Coding%20Study%&fontSize=50&animation=twinkling)
 
 # 💻 참여 규칙
+1. <span style="background-color:#fff5b1">fork한 레포지토리에서 작업</span>하고 PR한다.
+2. 매주 <span style="background-color:#f1f8ff">일요일</span>에 PR한다.
+3. 파일 하나 올릴 때 커밋 메시지 하나씩 올린다.
+4. 아래 <span style="background-color:#fff5b1">규칙들</span>을 정독 후 준수한다.
 
 </br>
 </br>
