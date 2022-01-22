@@ -54,4 +54,5 @@ public class Main{
 ```
 - 문제 URL : 
 - 난이도 : 
+- 걸린 시간 : 
 ```
