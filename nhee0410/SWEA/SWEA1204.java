@@ -1,7 +1,7 @@
 // 1204. [S/W 문제해결 기본] 1일차 - 최빈수 구하기 
 import java.util.Scanner;
 
-class nh056_sea01204 { // SEA에서는 반드시 class명을 Solution으로 제출해야 합니다!!
+class SWEA1204 { // SEA에서는 반드시 class명을 Solution으로 제출해야 합니다!!
 	public static void main(String[] args) {		
 	
 		Scanner sc = new Scanner(System.in);

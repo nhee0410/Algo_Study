@@ -1,7 +1,7 @@
 // 1208. [S/W 문제해결 기본] 1일차 - Flatten
 import java.util.Scanner;
 
-public class nh058_sea01208 {
+public class SWEA1208 {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
