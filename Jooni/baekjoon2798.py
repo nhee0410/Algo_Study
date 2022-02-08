@@ -28,5 +28,3 @@ for i in range(len(array)):
 
 if(flag!=True):
     print(value)
-
-    
