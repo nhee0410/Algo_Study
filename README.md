@@ -58,7 +58,7 @@
 git commit -m "[No.#] BOJ10203 - 문제이름 / 알고리즘유형" -m "문제 URL : ~" -m "Blog(해설) : ~"
 ```
 - **알고리즘 유형까지 필수**, 문제 URL과 blog 주소는 선택사항.
-- 사이트 명은 백준 - `BOJ`, 프로그래머스 - `PGS`
+- 사이트 명은 백준 - `BOJ`, 프로그래머스 - `PGS`, SW Expert Academy - `SWEA`
 
 </br>
 </br>
