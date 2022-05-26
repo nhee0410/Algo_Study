@@ -30,9 +30,9 @@
     <td align="center"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/>  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/><br><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/></br>
   </tr>
   <tr>
+    <td align="center">:red_circle: :radio_button: :radio_button:</td>
     <td align="center">:radio_button: :radio_button: :radio_button:</td>
-    <td align="center">:radio_button: :radio_button: :radio_button:</td>
-    <td align="center">:radio_button:</td>
+    <td align="center">:red_circle: :red_circle:</td>
     <td align="center"><sub>창업 준비로 휴식기</td>
     <td align="center"><sub>자격증 공부로 휴식기</td>
   </tr>
