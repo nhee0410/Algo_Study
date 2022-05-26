@@ -33,9 +33,23 @@
     <td align="center">:radio_button: :radio_button: :radio_button:</td>
     <td align="center">:radio_button: :radio_button: :radio_button:</td>
     <td align="center">:radio_button:</td>
-    <td align="center"></td>
+    <td align="center"><sub>창업 준비로 휴식기</td>
     <td align="center"><sub>자격증 공부로 휴식기</td>
   </tr>
+  <tr>
+    <td align="center">:radio_button: :radio_button:</td>
+    <td align="center">:radio_button: :radio_button:</td>
+    <td align="center">:radio_button: :radio_button:</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">:radio_button:</td>
+    <td align="center">:radio_button:</td>
+    <td align="center">:radio_button:</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>  
 </table>
 
 <details>
